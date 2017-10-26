@@ -4,6 +4,7 @@ Manually curated collection of some useful repositories
 ## Android ##
 * [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture): Demonstrates examples for implementing Android architecture with MVP, Clean or MVVM.
 * [Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui): A curated list of awesome Android UI/UX libraries.
+* [Android Clean Architecture Boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate): A boilerplate implementation of a simple Android app using Clean Architecture.
 
 ## Git & Github
 * [Standard Readme](https://github.com/RichardLitt/standard-readme): A useful guide and template for a readme
@@ -15,7 +16,7 @@ Manually curated collection of some useful repositories
 
 ## C++
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#c-1): 📚 Freely available programming books
-* [Awesome C/C++](https://github.com/fffaraz/awesome-cpp): A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things. 
+* [Awesome C/C++](https://github.com/fffaraz/awesome-cpp): A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things.
 * [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp): A collection of resources on modern C++
 
 ## Python
@@ -48,15 +49,15 @@ Manually curated collection of some useful repositories
 ## Code Katas
 * [kata-catalog](https://github.com/ardalis/kata-catalog): A curated catalog of coding katas maintained by Steve Ardalis.
 
-## NodeJS 
+## NodeJS
 * [Awesome-NodeJS](https://github.com/sindresorhus/awesome-nodejs): An awesome list of NodeJS packages and resources.
 * [Fastify](https://github.com/fastify/fastify): Fast and low overhead web framework, for Node.js  
 
 ## ElectronJS
 * [Awesome-Electron](https://github.com/sindresorhus/awesome-electron): An awesome list for creating apps with ElectronJS.
 
-## Machine Learning 
-* [Machine Learning Mind Map](https://github.com/dformoso/machine-learning-mindmap): A mind map which spans the depth and width of machine learning techniques and concepts. 
+## Machine Learning
+* [Machine Learning Mind Map](https://github.com/dformoso/machine-learning-mindmap): A mind map which spans the depth and width of machine learning techniques and concepts.
 
 ## Frameworks
 * [Propeller](https://github.com/digicorp/propeller): a front-end responsive framework based on Google's Material Design Standards & Bootstrap
@@ -79,9 +80,9 @@ Manually curated collection of some useful repositories
 * [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming): A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
 
 ## Angular
-* [Angular](https://github.com/angular/angular): One framework. Mobile & desktop. 
-* [Angular-CLI](https://github.com/angular/angular-cli): CLI tool for Angular. 
-* [Admin template based on Angular 4](https://github.com/akveo/ngx-admin): Admin dashboard template based onAngular 4+, Bootstrap 4. 
+* [Angular](https://github.com/angular/angular): One framework. Mobile & desktop.
+* [Angular-CLI](https://github.com/angular/angular-cli): CLI tool for Angular.
+* [Admin template based on Angular 4](https://github.com/akveo/ngx-admin): Admin dashboard template based onAngular 4+, Bootstrap 4.
 * [Chat Application using RxJS and Angular 2](https://github.com/ng-book/angular2-rxjs-chat): AExample Chat Application using RxJS and Angular 2
 * [NgRx repo's](https://github.com/ngrx): A collection of repositories to work with reactive programming using Angular, with make easier to implement Redux.
 * [Angular Firebase](https://github.com/angular/angularfire2): A library with make easier to integrate Angular (also Ionic) with Firebase. At the momment, it has the implementation to Firestore, Realtime Database and Authenticated (Firebase resources).
@@ -93,5 +94,3 @@ Manually curated collection of some useful repositories
 * [Ionic](https://github.com/ionic-team/ionic): the open-source mobile app development framework that makes it easy to build top quality native and progressive web apps with web technologies.
 * [Ionic-CLI](https://github.com/ionic-team/ionic-cli) CLI tool for Ionic.
 * [Ionic Conference App](https://github.com/ionic-team/ionic-conference-app) AExample App created with Ionic by Ionic Team. This project is just to show off Ionic components in a real-world application.
-
-
